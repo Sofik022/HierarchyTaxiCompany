@@ -22,7 +22,4 @@ public class Client extends Person {
     public void setOrders(int newOrders) {
         this.orders = newOrders;
     }
-
-
-
 }
